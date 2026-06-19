@@ -7,4 +7,4 @@ This repository contains the complete multi-label machine learning pipeline. To 
 Open your terminal or Git Bash and run the following command to download all necessary libraries simultaneously:
 
 ```bash
-pip install numpy pandas scikit-learn gensim matplotlib notebook scipy
+pip install -r requirements.txt
